@@ -23,4 +23,3 @@ pizzas = [
     }
 ]
 
-print(pizzas)
